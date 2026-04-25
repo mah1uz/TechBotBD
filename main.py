@@ -1,6 +1,23 @@
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
+import time
+from vector import retreiver  # Import the retriever to fetch products
 #  python .\main.py
+
+
+
+#banglsa bert
+
+from transformers import AutoTokenizer, AutoModel
+
+model_name = "sagorsarker/bangla-bert-base"
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModel.from_pretrained(model_name)
+
+
+
+
 
 model= OllamaLLM(model="gemma:2b", temperature=0.9)
 template = """
@@ -51,9 +68,27 @@ CUSTOMER QUESTION:
 YOUR RESPONSE:
 """
 
-promt = ChatPromptTemplate.from_template(template)
-chain = promt | model
+prompt = ChatPromptTemplate.from_template(template)
+chain = prompt | model
 
-result= chain.invoke({"details": [], "question": "which phone has the best specs for camera and gaming, tell me the specs and give a full comparison with a table?"})
+while True:
+    print("\nWelcome to TechBotBD! Ask me about our smartphones and laptops. (Type 'q' to quit)\n")
+    question = input("Ask your question (q to quit): ")
+    if question.lower() == 'q':
+        break
+    print("\n")
 
-print(result)
+    try:
+        # Fetch relevant products from the vector store
+        docs = retreiver.invoke(question)
+        details = "\n".join([doc.page_content for doc in docs])
+        
+        result = chain.invoke({"details": details, "question": question})
+        print("=" * 60)
+        print(f"📌 YOUR QUESTION:\n{question}")
+        print("-" * 60)
+        print(f"💬 TECHBOTBD'S ANSWER:\n{result}")
+        print("=" * 60)
+    except Exception as e:
+        print(f"❌ Error generating response: {e}")
+        print("Make sure Ollama is running and the model 'gemma:2b' is pulled.")

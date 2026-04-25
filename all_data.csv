@@ -1,80 +1,80 @@
 p_name,release_date,specs,price_in_dollar,category
-iPhone 17 Pro Max,2025,A19 Pro chip; 48MP triple camera; 120Hz OLED; 5000mAh,1399,camera
-Samsung Galaxy S25 Ultra,2025,Snapdragon 8 Elite; 200MP camera; 120Hz AMOLED; S-Pen,1299,performance
-Google Pixel 9 Pro,2025,Tensor G4; AI camera; 120Hz OLED; 4700mAh,999,camera
-OnePlus 13 Pro,2025,Snapdragon 8 Gen 4; 100W charging; AMOLED; 5000mAh,899,performance
-Xiaomi 15 Ultra,2025,Leica camera; Snapdragon 8 Elite; 120Hz AMOLED,1199,camera
-Sony Xperia 1 VII,2025,4K OLED; Snapdragon 8 Elite; pro camera system,1199,camera
-Oppo Find X9 Ultra,2026,200MP dual cam; Snapdragon 8 Elite Gen 5; 144Hz OLED,1449,camera
-Vivo X100 Pro+,2025,Zeiss optics; Dimensity 9400; 120Hz AMOLED,1099,camera
-Huawei P70 Pro,2025,KirIN chip; XMAGE camera; OLED display,1099,camera
-Asus ROG Phone 9,2025,Gaming triggers; Snapdragon 8 Elite; 165Hz AMOLED,999,performance
-Nothing Phone 3,2025,Snapdragon chip; Glyph UI; OLED,699,daily use
-Motorola Edge 50 Ultra,2025,144Hz display; Snapdragon chip; 50MP cam,799,daily use
-Realme GT 7 Pro,2025,Snapdragon flagship; 150W charging,699,performance
-iQOO 13 Pro,2025,Snapdragon 8 Elite; gaming cooling system,799,performance
-Honor Magic 8 Pro,2026,200MP camera; 7100mAh battery,1199,daily use
-Samsung Galaxy Z Fold 6,2025,foldable display; Snapdragon chip,1799,productivity
-Samsung Galaxy Z Flip 6,2025,compact foldable; AMOLED,999,daily use
-Google Pixel Fold 2,2025,foldable OLED; Tensor chip,1599,productivity
-OnePlus Open 2,2025,foldable AMOLED; Snapdragon chip,1499,productivity
-Xiaomi Mix Fold 4,2025,foldable; Leica camera,1499,productivity
-Sony Xperia 5 V,2025,compact flagship; OLED; Snapdragon,899,daily use
-Huawei Mate 60 Pro+,2025,flagship camera; OLED,1299,camera
-Asus Zenfone 11 Ultra,2025,compact flagship; Snapdragon chip,899,daily use
-Oppo Reno 12 Pro+,2025,AI camera; AMOLED,799,camera
-Vivo V30 Pro+,2025,portrait camera; AMOLED,799,camera
-Realme GT Neo 6 Pro,2025,fast charging; Snapdragon,699,performance
-Honor 600 Pro,2026,200MP cam; Snapdragon 8 Elite,784,camera
-Samsung Galaxy S25+,2025,Snapdragon 8 Elite; AMOLED,1099,daily use
-iPhone 17,2025,A19 chip; OLED,999,daily use
-iPhone 17 Air,2025,thin design; OLED,1099,daily use
-Pixel 9,2025,Tensor chip; OLED,799,daily use
-OnePlus 13,2025,Snapdragon chip; AMOLED,799,performance
-Xiaomi 15,2025,Snapdragon chip; AMOLED,799,performance
-Sony Xperia 1 VI,2025,4K OLED; Snapdragon,1199,camera
-Motorola Edge 50 Pro,2025,OLED; Snapdragon chip,699,daily use
-Nothing Phone 2a Pro,2025,OLED; Snapdragon chip,599,daily use
-Realme GT 6,2025,fast charging; Snapdragon,599,performance
-iQOO Neo 9 Pro+,2025,gaming; Snapdragon chip,699,performance
-Vivo X90 Pro+,2025,Zeiss camera; AMOLED,1099,camera
-Huawei P60 Pro+,2025,flagship camera,1099,camera
+iPhone 17 Pro Max,2025,A19 Pro chip; 48MP triple camera; 120Hz OLED; 5000mAh,1399$,camera
+Samsung Galaxy S25 Ultra,2025,Snapdragon 8 Elite; 200MP camera; 120Hz AMOLED; S-Pen,1299$,performance
+Google Pixel 9 Pro,2025,Tensor G4; AI camera; 120Hz OLED; 4700mAh,999$,camera
+OnePlus 13 Pro,2025,Snapdragon 8 Gen 4; 100W charging; AMOLED; 5000mAh,899$,performance
+Xiaomi 15 Ultra,2025,Leica camera; Snapdragon 8 Elite; 120Hz AMOLED,1199$,camera
+Sony Xperia 1 VII,2025,4K OLED; Snapdragon 8 Elite; pro camera system,1199$,camera
+Oppo Find X9 Ultra,2026,200MP dual cam; Snapdragon 8 Elite Gen 5; 144Hz OLED,1449$,camera
+Vivo X100 Pro+,2025,Zeiss optics; Dimensity 9400; 120Hz AMOLED,1099$,camera
+Huawei P70 Pro,2025,KirIN chip; XMAGE camera; OLED display,1099$,camera
+Asus ROG Phone 9,2025,Gaming triggers; Snapdragon 8 Elite; 165Hz AMOLED,999$,performance
+Nothing Phone 3,2025,Snapdragon chip; Glyph UI; OLED,699$,daily use
+Motorola Edge 50 Ultra,2025,144Hz display; Snapdragon chip; 50MP cam,799$,daily use
+Realme GT 7 Pro,2025,Snapdragon flagship; 150W charging,699$,performance
+iQOO 13 Pro,2025,Snapdragon 8 Elite; gaming cooling system,799$,performance
+Honor Magic 8 Pro,2026,200MP camera; 7100mAh battery,1199$,daily use
+Samsung Galaxy Z Fold 6,2025,foldable display; Snapdragon chip,1799$,productivity
+Samsung Galaxy Z Flip 6,2025,compact foldable; AMOLED,999$,daily use
+Google Pixel Fold 2,2025,foldable OLED; Tensor chip,1599$,productivity
+OnePlus Open 2,2025,foldable AMOLED; Snapdragon chip,1499$,productivity
+Xiaomi Mix Fold 4,2025,foldable; Leica camera,1499$,productivity
+Sony Xperia 5 V,2025,compact flagship; OLED; Snapdragon,899$,daily use
+Huawei Mate 60 Pro+,2025,flagship camera; OLED,1299$,camera
+Asus Zenfone 11 Ultra,2025,compact flagship; Snapdragon chip,899$,daily use
+Oppo Reno 12 Pro+,2025,AI camera; AMOLED,799$,camera
+Vivo V30 Pro+,2025,portrait camera; AMOLED,799$,camera
+Realme GT Neo 6 Pro,2025,fast charging; Snapdragon,699$,performance
+Honor 600 Pro,2026,200MP cam; Snapdragon 8 Elite,784$,camera
+Samsung Galaxy S25+,2025,Snapdragon 8 Elite; AMOLED,1099$,daily use
+iPhone 17,2025,A19 chip; OLED,999$,daily use
+iPhone 17 Air,2025,thin design; OLED,1099$,daily use
+Pixel 9,2025,Tensor chip; OLED,799$,daily use
+OnePlus 13,2025,Snapdragon chip; AMOLED,799$,performance
+Xiaomi 15,2025,Snapdragon chip; AMOLED,799$,performance
+Sony Xperia 1 VI,2025,4K OLED; Snapdragon,1199$,camera
+Motorola Edge 50 Pro,2025,OLED; Snapdragon chip,699$,daily use
+Nothing Phone 2a Pro,2025,OLED; Snapdragon chip,599$,daily use
+Realme GT 6,2025,fast charging; Snapdragon,599$,performance
+iQOO Neo 9 Pro+,2025,gaming; Snapdragon chip,699$,performance
+Vivo X90 Pro+,2025,Zeiss camera; AMOLED,1099$,camera
+Huawei P60 Pro+,2025,flagship camera,1099$,camera
 
-MacBook Pro M4,2025,M4 chip; 16-inch Retina; 18GB RAM,2499,performance
-MacBook Air M4,2025,M4 chip; 13-inch; lightweight,1299,daily use
-Dell XPS 15 2025,2025,Intel i9; OLED; RTX 4070,2299,performance
-HP Spectre x360 2025,2025,Intel Ultra; OLED; 2-in-1,1799,productivity
-Lenovo ThinkPad X1 Carbon Gen 13,2025,Intel Ultra; business laptop,1999,productivity
-Asus ROG Zephyrus G16,2025,Ryzen 9; RTX 4080,2499,gaming
-Acer Predator Helios 18,2025,Intel i9; RTX 4090,2999,gaming
-MSI Raider GE78,2025,Intel i9; RTX 4090,2899,gaming
-Razer Blade 16,2025,Intel i9; RTX 4080; premium build,2799,gaming
-Apple MacBook Pro 14 M4,2025,M4 chip; Retina,1999,performance
-Dell Alienware m18 R2,2025,Intel i9; RTX 4090,2999,gaming
-HP Omen 17 2025,2025,Intel i7; RTX 4070,1999,gaming
-Lenovo Legion 9i,2025,Intel i9; RTX 4090,2899,gaming
-Asus TUF Gaming F15 2025,2025,Intel i7; RTX 4060,1499,gaming
-Acer Nitro 16,2025,Ryzen 7; RTX 4060,1399,gaming
-MSI Stealth 16 AI,2025,Intel Ultra; RTX 4070,2199,performance
-Razer Blade 14,2025,Ryzen 9; RTX 4070,2399,gaming
-MacBook Air 15 M4,2025,M4 chip; large display,1499,daily use
-Dell Inspiron 16 Plus,2025,Intel i7; RTX 4060,1399,daily use
-HP Pavilion Plus 14,2025,Intel i5; OLED,999,daily use
-Lenovo Yoga 9i,2025,Intel Ultra; OLED; 2-in-1,1699,productivity
-Asus Zenbook 14 OLED,2025,Intel Ultra; OLED,1199,daily use
-Acer Swift X 14,2025,Ryzen 7; RTX 4050,1299,performance
-MSI Prestige 14 AI,2025,Intel Ultra; lightweight,1399,productivity
-Samsung Galaxy Book 4 Ultra,2025,Intel Ultra; RTX 4070,2399,performance
-LG Gram 17 2025,2025,Intel Ultra; ultra-light,1699,daily use
-Microsoft Surface Laptop 6,2025,Intel Ultra; touchscreen,1599,productivity
-Surface Laptop Studio 2,2025,Intel i7; RTX 4060,2199,creative
-Dell Latitude 9440,2025,business ultrabook,1999,productivity
-HP Elite Dragonfly G4,2025,ultralight; business laptop,1999,productivity
-Lenovo ThinkBook 16p,2025,Intel i9; RTX 4060,1799,performance
-Asus Vivobook Pro 15,2025,OLED; RTX 4050,1299,performance
-Acer Aspire 7 2025,2025,Ryzen 5; GTX 1650,899,daily use
-MSI Katana 17,2025,Intel i7; RTX 4060,1399,gaming
-Razer Blade 18,2025,Intel i9; RTX 4090,3499,gaming
-Gigabyte Aorus 17X,2025,Intel i9; RTX 4090,2999,gaming
-Samsung Galaxy Book Flex 3,2025,2-in-1; AMOLED,1599,productivity
-Huawei MateBook X Pro 2025,2025,Intel Ultra; lightweight,1799,daily use
+MacBook Pro M4,2025,M4 chip; 16-inch Retina; 18GB RAM,2499$,performance
+MacBook Air M4,2025,M4 chip; 13-inch; lightweight,1299$,daily use
+Dell XPS 15 2025,2025,Intel i9; OLED; RTX 4070,2299$,performance
+HP Spectre x360 2025,2025,Intel Ultra; OLED; 2-in-1,1799$,productivity
+Lenovo ThinkPad X1 Carbon Gen 13,2025,Intel Ultra; business laptop,1999$,productivity
+Asus ROG Zephyrus G16,2025,Ryzen 9; RTX 4080,2499$,gaming
+Acer Predator Helios 18,2025,Intel i9; RTX 4090,2999$,gaming
+MSI Raider GE78,2025,Intel i9; RTX 4090,2899$,gaming
+Razer Blade 16,2025,Intel i9; RTX 4080; premium build,2799$,gaming
+Apple MacBook Pro 14 M4,2025,M4 chip; Retina,1999$,performance
+Dell Alienware m18 R2,2025,Intel i9; RTX 4090,2999$,gaming
+HP Omen 17 2025,2025,Intel i7; RTX 4070,1999$,gaming
+Lenovo Legion 9i,2025,Intel i9; RTX 4090,2899$,gaming
+Asus TUF Gaming F15 2025,2025,Intel i7; RTX 4060,1499$,gaming
+Acer Nitro 16,2025,Ryzen 7; RTX 4060,1399$,gaming
+MSI Stealth 16 AI,2025,Intel Ultra; RTX 4070,2199$,performance
+Razer Blade 14,2025,Ryzen 9; RTX 4070,2399$,gaming
+MacBook Air 15 M4,2025,M4 chip; large display,1499$,daily use
+Dell Inspiron 16 Plus,2025,Intel i7; RTX 4060,1399$,daily use
+HP Pavilion Plus 14,2025,Intel i5; OLED,999$,daily use
+Lenovo Yoga 9i,2025,Intel Ultra; OLED; 2-in-1,1699$,productivity
+Asus Zenbook 14 OLED,2025,Intel Ultra; OLED,1199$,daily use
+Acer Swift X 14,2025,Ryzen 7; RTX 4050,1299$,performance
+MSI Prestige 14 AI,2025,Intel Ultra; lightweight,1399$,productivity
+Samsung Galaxy Book 4 Ultra,2025,Intel Ultra; RTX 4070,2399$,performance
+LG Gram 17 2025,2025,Intel Ultra; ultra-light,1699$,daily use
+Microsoft Surface Laptop 6,2025,Intel Ultra; touchscreen,1599$,productivity
+Surface Laptop Studio 2,2025,Intel i7; RTX 4060,2199$,creative
+Dell Latitude 9440,2025,business ultrabook,1999$,productivity
+HP Elite Dragonfly G4,2025,ultralight; business laptop,1999$,productivity
+Lenovo ThinkBook 16p,2025,Intel i9; RTX 4060,1799$,performance
+Asus Vivobook Pro 15,2025,OLED; RTX 4050,1299$,performance
+Acer Aspire 7 2025,2025,Ryzen 5; GTX 1650,899$,daily use
+MSI Katana 17,2025,Intel i7; RTX 4060,1399$,gaming
+Razer Blade 18,2025,Intel i9; RTX 4090,3499$,gaming
+Gigabyte Aorus 17X,2025,Intel i9; RTX 4090,2999$,gaming
+Samsung Galaxy Book Flex 3,2025,2-in-1; AMOLED,1599$,productivity
+Huawei MateBook X Pro 2025,2025,Intel Ultra; lightweight,1799$,daily use
