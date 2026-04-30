@@ -1,5 +1,5 @@
-langchain 
-langchain-ollama
-langchain-chroma
+groq
 pandas
-transformers torch
+sentence-transformers
+faiss-cpu
+python-dotenv
