@@ -13,6 +13,7 @@ _ = chat("init")
 print("\n✅ TechBotBD is ready! (Type 'exit' to quit)\n")
 
 while True:
+    
     user_input = input("You: ")
     if user_input.lower() in ['exit', 'quit', 'q']:
         print("TechBotBD: ধন্যবাদ! আবার দেখা হবে।")
