@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 from techbot.preprocessor import preprocess
 
 model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
-
+#mahfuz
 class TechBotRAG:
     def __init__(self, data_dir='techbot/data/', force_rebuild=False):
         if not os.path.exists(data_dir):
