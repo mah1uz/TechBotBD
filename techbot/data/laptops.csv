@@ -1,0 +1,316 @@
+name,price_bdt,brand,processor,generation,ram_gb,storage,gpu,gpu_memory,display_inch,url,shop
+Acer ALG Gaming-AL15G-53,110000,Acer,Core i5,13th (Intel),16,1TB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 15 AS15-42,56500,Acer,Ryzen 3,Ryzen,8,512GB SSD,AMD Radeon Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 15 AS15-42,66000,Acer,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A324-31,46000,Acer,Core N100,12th Standard (Intel),8,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-45,37900,Acer,Intel Celeron,Celeron Series,8,512GB,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-45,40800,Acer,Intel Celeron,Celeron Series,12,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-53,58000,Acer,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-53,69900,Acer,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-53,70000,Acer,Core i5,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-53,55900,Acer,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-53,55900,Acer,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire 3 A325-53,68000,Acer,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire Go 14 AG14-71M,104000,Acer,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire Lite AL15-31,42900,Acer,Core N100,12th Standard (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire Lite AL15-52H,77000,Acer,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire Lite AL15-53,73000,Acer,Core i5,13th Standard (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Aspire Lite AL15-53,69000,Acer,Core i5,13th Standard (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Predator Helios Neo 16S AI PHN16S-71,325000,Acer,Core Ultra 7,Ultra,16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Predator Helios Neo 16S AI PHN16S-71,360000,Acer,Core Ultra 9,Ultra,32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Predator Helios Neo 16S AI PHN16S-71,285000,Acer,Core Ultra 7,Ultra,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Predator Helios Neo 16S AI PHN16S-71,340000,Acer,Core Ultra 9,Ultra,16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Predator Helios Neo 16S AI PHN16S-71-73W,279900,Acer,Core Ultra 7,Ultra,16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Swift Go 14 SFG14-73 Series 1,146000,Acer,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Swift Go 14 SFG14-73 Series 1,148000,Acer,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer Swift Lite SFL14-54M Series 1,107000,Acer,Core Ultra 5,Ultra,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer TravelLite TL14-52M-i3,61000,Acer,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer TravelLite TL14-52M-i5,83000,Acer,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer TravelLite TL24-53M Series 1,118000,Acer,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer TravelMate P214-54,54900,Acer,Core i3,12th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Acer TravelMate P6 TMP-614-53,120000,Acer,Core i5,13th (Intel),16,1TB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,151900,Apple,Apple M5,M Series,16,512GB SSD,Apple 8-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,512GB SSD,Apple 10-Core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,209000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,209000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,209000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,211000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,211000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,211000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,211000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,225000,Apple,Apple M4,M Series,24,512GB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,238000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,238000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,512GB SSD,Apple 10-Core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,512GB SSD,Apple 10-Core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,512GB SSD,Apple 10-Core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,184000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,185000,Apple,Apple M3,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,238000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Air,238000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-core GPU,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Neo,99900,Apple,Apple A18,A Series,8,512GB SSD,Apple 5-core GPU,Shared,13.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Neo,99900,Apple,Apple A18,A Series,8,512GB SSD,Apple 5-core GPU,Shared,13.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,248000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,248000,Apple,Apple M5,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,292000,Apple,Apple M5,M Series,32,1TB SSD,Apple 10-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,306000,Apple,Apple M5,M Series,24,1TB SSD,Apple 16-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,360000,Apple,Apple M5,M Series,24,2TB SSD,Apple 16-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,387000,Apple,Apple M5,M Series,24,2TB SSD,Apple 20-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,387000,Apple,Apple M5,M Series,24,2TB SSD,Apple 20-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,410000,Apple,Apple M5,M Series,48,1TB SSD,Apple 20-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,427000,Apple,Apple M5,M Series,48,1TB SSD,Apple 20-Core GPU,Shared,16.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,460000,Apple,Apple M5,M Series,48,1TB SSD,Apple 20-Core GPU,Shared,16.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,495000,Apple,Apple M5,M Series,36,2TB SSD,Apple 32-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,495000,Apple,Apple M5,M Series,36,2TB SSD,Apple 32-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,221000,Apple,Apple M5,M Series,16,512GB SSD,Apple 10-core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,272000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,272000,Apple,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,292000,Apple,Apple M5,M Series,32,1TB SSD,Apple 10-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,306000,Apple,Apple M5,M Series,24,1TB SSD,Apple 16-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,350000,Apple,Apple M2,M Series,32,1TB SSD,Apple 30-core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Apple MacBook Pro,360000,Apple,Apple M5,M Series,24,2TB SSD,Apple 16-Core GPU,Shared,14.2,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ExpertBook B1 B1403CVA Series 1,87000,Asus,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ExpertBook B3 B3405CCA Series 2,115000,Asus,Core Ultra 7,Ultra,8,512GB SSD,Intel Arc 140T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ExpertBook B5 B5302CEA,82500,Asus,Core i5,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,13.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ProArt StudioBook 16 H5600QM,232000,Asus,Ryzen 7,Ryzen,16,1TB SSD,Nvidia RTX 3060 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ProArt StudioBook 16 H5600QM,258000,Asus,Ryzen 9,Ryzen,32,1TB SSD,Nvidia RTX 3060 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ProArt StudioBook 16 H5600QR,298000,Asus,Ryzen 9,Ryzen,32,1TB SSD,Nvidia RTX 3070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ROG Strix G16 G614JU,170000,Asus,Core i5,13th (Intel),16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ROG Strix G16 G614PH,240000,Asus,Ryzen 9,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ROG Strix G16 G614PP,302000,Asus,Ryzen 9,Ryzen,16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ROG Strix G16 G614PP,332000,Asus,Ryzen 9,Ryzen,32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ROG Strix G16 G615LP,377000,Asus,Core Ultra 9,Ultra,32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ROG Strix SCAR 18 G835LX Series 2,649990,Asus,Core Ultra 9,Ultra,64,1TB SSD,Nvidia RTX 5090 Graphics,24GB,18.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ROG Zephyrus G14 GA403WP,428000,Asus,Ryzen AI 9,Ryzen,32,2TB SSD,Nvidia RTX 5070 Graphics,8GB,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ROG Zephyrus G16 GU605CR Series 2,490000,Asus,Core Ultra 9,Ultra,32,1TB SSD,Nvidia RTX 5070 Ti Graphics,12GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming A14 FA401UH,192000,Asus,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming A15 FA506NCG,119000,Asus,Ryzen 7,Ryzen,8,512GB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus TUF Gaming A15 FA506NCQ,124000,Asus,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming A16 FA607NUG,154000,Asus,Ryzen 7,Ryzen,16,1TB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming A16 FA607NUQ,159000,Asus,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming A16 FA608UH,205000,Asus,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming A16 FA608UM,192000,Asus,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming F16 FX607VB Series 2,115900,Asus,Core 5,Core Series 2,8,512GB SSD,Nvidia RTX 3050A Graphics,4GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming F16 FX608JH,170000,Asus,Core i5,13th (Intel),16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus TUF Gaming F16 FX608JHI,220000,Asus,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus TUF Gaming F16 FX608JMI,252000,Asus,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS TUF Gaming F16 FX608JMR,252000,Asus,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus TUF Gaming F16 FX608JPR,313000,Asus,Core i7,14th (Intel),32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus TUF Gaming F16 FX608JPR,282000,Asus,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus V16 V3607VH Series 2,144000,Asus,Core 5,Core Series 2,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus V16 V3607VH Series 2,184000,Asus,Core 7,Core Series 2,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14,112000,Asus,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 820M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14 A1404VA Series 1,84900,Asus,Core 5,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14 A1404VA Series 1,84900,Asus,Core 5,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14 F1407CA Series 2,108000,Asus,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc 130V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14 F1407CA Series 2,108000,Asus,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc 130V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14 F1407CA Series 2,112000,Asus,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 14 F1407CA Series 2,112000,Asus,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 14 F1407QA,98000,Asus,Snapdragon X,Snapdragon X Series,16,1TB SSD,Qualcomm Adreno Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 14 F1407QA,98000,Asus,Snapdragon X,Snapdragon X Series,16,1TB SSD,Qualcomm Adreno Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 14 M1407KA,112000,Asus,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 820M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 14 X1404VA Series 1,84900,Asus,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,65800,Asus,Core 3,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,112000,Asus,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,65800,Asus,Core 3,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,84900,Asus,Core 5,Core Series 1,16,512GB,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,84900,Asus,Core 5,Core Series 1,16,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,84900,Asus,Core 5,Core Series 1,16,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 15 A1504VA Series 1,112000,Asus,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 15 X1504VA,80000,Asus,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 15 X1504VA,80000,Asus,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS Vivobook 15 X1504VA,99500,Asus,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 15 X1504VA,96500,Asus,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook 15 X1504VA,96500,Asus,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 16 F1607CA Series 2,112000,Asus,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130T Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 16 F1607CA Series 2,112000,Asus,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130V Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 16 F1607CA Series 2,108000,Asus,Core Ultra 5,Ultra,16,512GB SSD,Intel Iris Xe Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 16 M1607GA,129000,Asus,Ryzen AI 7,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 16 M1607GA,129000,Asus,Ryzen AI 7,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook 16X K3605VC,103000,Asus,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 3050 Graphics,4GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Go 14 L1404FA,79000,Asus,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook Go 14 L1404FA,79000,Asus,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus Vivobook Go 15 E1504TA,60800,Asus,Core N150,12th Standard (Intel),8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus Vivobook Go 15 E1504TA,60800,Asus,Core N150,12th Standard (Intel),8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Go 15 L1504FA,59500,Asus,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Go 15 L1504FA,79000,Asus,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Go 15 L1504FA,79000,Asus,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Go 15 L1504FA,59500,Asus,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Go 15 L1504FA,79000,Asus,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook Pro 15 K3500PA,93000,Asus,Core i7,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S 16 OLED M5606KA,160000,Asus,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S 16 OLED M5606KA,160000,Asus,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S14 M3407HA,109000,Asus,Ryzen 5,Ryzen,16,1TB SSD,AMD Radeon 740M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S14 M3407HA,124000,Asus,Ryzen 7,Ryzen,16,1TB SSD,AMD Radeon 780M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S14 S3407CA,144500,Asus,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc 140T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook S14 S3407VA Series 2,119000,Asus,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus VivoBook S14 S3407VA Series 2,124000,Asus,Core 5,Core Series 2,16,1TB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S15 S513EA,76500,Asus,Core i5,11th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS VivoBook S15 S5507QA,170000,Asus,Snapdragon X Elite,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS X515EA,51900,Asus,Core i3,11th (Intel),4,1TB HDD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ZenBook 14 UM3406GA,153000,Asus,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus ZenBook 14 UX3405CA Series 2,180000,Asus,Core Ultra 7,Ultra,16,512GB SSD,Intel Arc 140T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ZenBook Pro Duo 14 OLED UX8402ZE,250000,Asus,Core i7,12th (Intel),16,512GB SSD,Nvidia RTX 3050 Ti Graphics,4GB,14.5,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+ASUS ZenBook S 14 OLED UX5406SA Series 2,216000,Asus,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Asus Zenbook S 16 UM5606GA,256000,Asus,Ryzen AI 7,Ryzen,32,1TB SSD,AMD Radeon 840M Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+CHUWI GemiBook Xpro,34900,,Core N100,12th Standard (Intel),8,256GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell 15 DC15250,97500,Dell,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell 15 DC15250,74500,Dell,Core i5,13th (Intel),8,512GB,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell 15 DC15250 Series 1,59000,Dell,Core 3,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell Inspiron 14 5440 Series 1,117500,Dell,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell Inspiron 15 3530,96900,Dell,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell Latitude 14 3440,85500,Dell,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell Latitude 14 3440,86500,Dell,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell Latitude 14 5450 Series 1,129500,Dell,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Dell Pro 14 PC14250 Series 2,97500,Dell,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Gigabyte AERO X16 1TH,185000,Gigabyte,Ryzen AI 7,Ryzen,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Gigabyte AERO X16 1VH,185000,Gigabyte,Ryzen AI 7,Ryzen,16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Gigabyte Gaming A16 CMH,144000,Gigabyte,Core i7,13th (Intel),16,1TB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Gigabyte Gaming A16 CMH,189000,Gigabyte,Core i7,13th (Intel),16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Gigabyte Gaming G6 MF,132000,Gigabyte,Core i7,13th (Intel),16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Gigabyte Gaming G6 MF,134000,Gigabyte,Core i7,13th (Intel),16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 14-ep0134TU,98500,HP,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 14-ep0408TU,84900,HP,Core i5,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 14-ep0426TU,80500,HP,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fc0355AU,50000,HP,AMD Athlon,,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fc0621AU,50000,HP,AMD Athlon,Athlon Series,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fd0807TU,65990,HP,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fd0808TU Core i3 1315U,65990,HP,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fd0811TU,79500,HP,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fd0812TU,79500,HP,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fd0841TU,64990,HP,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP 15-fr0077TU,88800,HP,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Hp EliteBook 640 G11 Series 1,106000,HP,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Elitebook 840 G11 Series 1,145000,HP,Core Ultra 5,Ultra,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Elitebook 840 G11 Series 1,175000,HP,Core Ultra 7,Ultra,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP OMEN Gaming 16-am0333TX,336000,HP,Core i9,14th (Intel),32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP OmniBook 5 Flip x360 2-in-1 14-fp0134TU,154000,HP,Core 7,Core Series 1,24,1TB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP OmniBook 5 Flip x360 2-in-1 14-fp0136TU,107900,HP,Core i5,13th (Intel),16,1TB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP OmniBook Ultra Flip x360 14-fh0104TU AI,229000,HP,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc 140V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP ProBook 440 G11 Series 1,96500,HP,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP ProBook 440 G11 Series 1,135000,HP,Core Ultra 7,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP ProBook 460 G11 Series 1,129500,HP,Core Ultra 7,Ultra,8,512GB SSD,Intel Arc Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP ProBook 460 G11 Series 1,116000,HP,Core Ultra 5,Ultra,8,512GB SSD,Intel Arc Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Victus Gaming 15-fa1393TX,110900,HP,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Victus Gaming 15-fa2276TX,128000,HP,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Victus Gaming 15-fb1054AX,95500,HP,Ryzen 5,Ryzen,8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Victus Gaming 15-fb3166AX,106500,HP,Ryzen 5,Ryzen,8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Victus Gaming 15-fb3167AX,106500,HP,Ryzen 5,Ryzen,8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+HP Victus Gaming 15-fb3180AX,132500,HP,Ryzen 7,Ryzen,8,1TB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 1 14IJL7,38800,Lenovo,Intel Celeron,Celeron Series,8,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 1 15AMN7,41500,Lenovo,AMD Athlon,Athlon Series,8,256GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 5 2 in 1 14AKP10,115000,Lenovo,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 5 2 in 1 14AKP10,155000,Lenovo,Ryzen AI 7,Ryzen,24,512GB SSD,AMD Radeon 860M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 5 2 in 1 14IAL10 Series 2,137000,Lenovo,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 5 2 in 1 14IAL10 Series 2,157000,Lenovo,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc 140T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 5 2 in 1 14IAL10 Series 2,151500,Lenovo,Core Ultra 7,Ultra,16,512GB SSD,Intel Arc 140T Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad 5 2 in 1 14Q8X9,137500,Lenovo,Snapdragon X Plus,Snapdragon X Series,16,1TB SSD,Qualcomm Adreno Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 1 14IGL7,38300,Lenovo,Intel Celeron,Celeron Series,8,512GB SSD,Intel UHD Graphics 600,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 1 15IGL7,36300,Lenovo,Intel Celeron,Celeron Series,8,256GB SSD,Intel UHD Graphics 600,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14AHP10,93000,Lenovo,Ryzen 5,Ryzen,24,512GB SSD,AMD Radeon 760M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14ARP10,72000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14ARP10,71000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14ARP10,71000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14ARP10,72000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14IRH10,85500,Lenovo,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14IRH10,91000,Lenovo,Core i5,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14IRH10,95500,Lenovo,Core i7,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14IRH10,83500,Lenovo,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14IRH10R,84500,Lenovo,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 14IRH10R Series 2,92500,Lenovo,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15AHP10,93000,Lenovo,Ryzen 5,Ryzen,24,512GB SSD,AMD Radeon 760M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15AMN8,54000,Lenovo,Ryzen 3,Ryzen,8,256GB SSD,AMD Radeon 610M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,71000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,71000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,73000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,73000,Lenovo,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,80000,Lenovo,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,80000,Lenovo,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ARP10,89500,Lenovo,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 680M Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IAN8,55500,Lenovo,Core i3,13th Standard (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10,85000,Lenovo,Core i5,13th (Intel),24,512GB SSD,Intel UHD Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10,83500,Lenovo,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10,91000,Lenovo,Core i5,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10,95500,Lenovo,Core i7,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10R,96000,Lenovo,Core 5,Core Series 2,24,512GB SSD,Intel Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10R Series 2,84500,Lenovo,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH10R Series 2,107000,Lenovo,Core 7,Core Series 2,24,512GB SSD,Intel Graphics,Shared,15.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15IRH8,74100,Lenovo,Core i5,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ITL6,73500,Lenovo,Core i7,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 3 15ITL6,73500,Lenovo,Core i7,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 13ARP10,98000,Lenovo,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 680M Graphics,Shared,13.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 13ARP10,110000,Lenovo,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 680M Graphics,Shared,13.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14AKP10,98000,Lenovo,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 820M Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14IRH10,111000,Lenovo,Core i5,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14IRH10,121000,Lenovo,Core i7,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14IRH10,101000,Lenovo,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14IRH10R,123000,Lenovo,Core 5,Core Series 2,32,1TB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14IRH10R Series 2,120000,Lenovo,Core 7,Core Series 2,16,1TB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 14Q8X9,117500,Lenovo,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 15ARP10,173000,Lenovo,Ryzen 7,Ryzen,32,1TB SSD,AMD Radeon 680M Graphics,Shared,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo IdeaPad Slim 5 16AHP10,162000,Lenovo,Ryzen 7,Ryzen,32,1TB SSD,AMD Radeon 780M Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion 5 15AKP10,240000,Lenovo,Ryzen AI 7,Ryzen,32,512GB SSD,Nvidia RTX 5060 Graphics,8GB,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion 5 15AKP10 AMD,270000,Lenovo,Ryzen AI 7,Ryzen,32,512GB SSD,NVIDIA Geforce RTX 5070 Graphics,8GB,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion 5 Gaming 15IRX10,197500,Lenovo,Core i7,14th (Intel),24,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion 5 Gaming 15IRX10,243500,Lenovo,Core i7,14th (Intel),24,512GB SSD,Nvidia RTX 5070 Graphics,8GB,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion 5 Gaming 15IRX10,272500,Lenovo,Core i9,14th (Intel),24,512GB SSD,Nvidia RTX 5070 Graphics,8GB,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion 5 Gaming 15IRX10,200500,Lenovo,Core i7,14th (Intel),24,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.1,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion Pro 5 16ADR10,235000,Lenovo,Ryzen 7,Ryzen,32,1TB SSD,NVIDIA GeForce RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Legion Pro 5 16ADR10,240000,Lenovo,Ryzen 7,Ryzen,24,1TB SSD,NVIDIA GeForce RTX 5060 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ 15AHP10,165000,Lenovo,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ 15AHP10,168000,Lenovo,Ryzen 5,Ryzen,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ 15AHP10,172000,Lenovo,Ryzen 7,Ryzen,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ 15AHP9,138000,Lenovo,Ryzen 5,Ryzen,16,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ 15AHP9,142000,Lenovo,Ryzen 5,Ryzen,16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ Gaming 15IAX9,107000,Lenovo,Core i5,12th (Intel),16,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ Gaming 15IAX9E,121500,Lenovo,Core i5,12th (Intel),16,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ Gaming 15IAX9E,96000,Lenovo,Core i5,12th (Intel),12,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ Gaming 15IRX9,135500,Lenovo,Core i5,13th (Intel),24,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo LOQ Gaming 15IRX9,145000,Lenovo,Core i7,13th (Intel),24,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo ThinkPad E14,98000,Lenovo,Core Ultra 5,Ultra,8,512GB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo ThinkPad E14,98000,Lenovo,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo ThinkPad E14 Gen 7 Series 2,110000,Lenovo,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga 7 2 in 1 14ILL10 Series 2,178000,Lenovo,Core Ultra 5,Ultra,32,1TB SSD,Intel Arc 130V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga 7 2 in 1 14IML9,159000,Lenovo,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga 7 2 in 1 14IML9 I,165000,Lenovo,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga 7 2 in 1 14IML9 Series 1,142500,Lenovo,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14ILL10 Series 2,164000,Lenovo,Core Ultra 7,Ultra,16,512GB SSD,Intel Arc 140V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14ILL10 Series 2,189000,Lenovo,Core Ultra 7,Ultra,32,1TB SSD,Intel Arc 140V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14ILL10 Series 2,173000,Lenovo,Core Ultra 5,Ultra,32,1TB SSD,Intel Arc 130V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14IMH9,142500,Lenovo,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14IMH9 Series 1,159000,Lenovo,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14IMH9 Series 1,197000,Lenovo,Core Ultra 9,Ultra,32,1TB SSD,Intel Arc Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 7 14Q8X9,208000,Lenovo,Snapdragon X Elite,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,14.5,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Lenovo Yoga Slim 9 14ILL10 Series 2,277000,Lenovo,Core Ultra 7,Ultra,32,1TB SSD,Intel Arc 140V Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Microsoft Surface Laptop 1st Edition Copilot+pc,184000,Microsoft,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Microsoft Surface Laptop 5,130000,Microsoft,Core i5,12th (Intel),8,256GB SSD,Intel Iris Xe Graphics,Shared,13.5,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Microsoft Surface Laptop 7,184000,Microsoft,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.8,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Microsoft Surface Laptop 7,179000,Microsoft,Core Ultra 5,Ultra,16,256GB SSD,Intel Arc 130V Graphics,Shared,13.8,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Microsoft Surface Laptop 7 Copilot+ PC,184000,Microsoft,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.8,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Microsoft Surface Laptop 7 Copilot+ PC,199000,Microsoft,Snapdragon X Elite,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.8,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Cyborg 15 A13UC,98900,MSI,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Cyborg 15 A13VE,115900,MSI,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 4050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Cyborg 15 B2RWEKG Series 2,159900,MSI,Core 5,Core Series 2,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Katana 15 HX B14WFK,188900,MSI,Core i7,14th (Intel),16,512GB SSD,Nvidia RTX 5060 Graphics,8GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Katana 15 HX B14WGK,221900,MSI,Core i7,14th (Intel),16,512GB SSD,Nvidia RTX 5070 Graphics,8GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Modern 14 F13MG,68500,MSI,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Modern 15 F13MG,69000,MSI,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Modern 15 F1MG Series 1,79400,MSI,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Modern 15 F1MG Series 1,102900,MSI,Core 7,Core Series 1,8,1TB SSD,Intel Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Modern A15 AI F2HMG,79000,MSI,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 740M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Modern A15 AI F2HMG,89000,MSI,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 780M Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Prestige 13 AI+ Ukiyoe Edition A2VMG,325000,MSI,Core Ultra 9,Ultra,32,2TB SSD,Intel Arc 140V Graphics,Shared,13.3,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Thin 15 B13VE,105900,MSI,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 4050 Graphics,6GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI Vector 16 HX AI A2XWIG Series 2,449900,MSI,Core Ultra 9,Ultra,16,1TB SSD,Nvidia RTX 5080 Graphics,16GB,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+MSI VenturePro 15 A2RWEG Series 2,148900,MSI,Core 5,Core Series 2,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Smart Flairedge,64500,,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Smart Flairedge,59000,,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Smart Flairedge,67500,,Core i7,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Smart Flairedge,68500,,Core i7,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+Smart Flairedge,54500,,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+TECNO Megabook K15S,57500,,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon Graphics,Shared,15.6,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+TECNO Megabook K16S,61900,,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon Graphics,Shared,16.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
+TECNO Megabook T14 Air,71900,,Core i5,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,https://www.ryans.com/category/laptop-all-laptop?limit=100&sort=D&osp=1&st=0,Ryans
