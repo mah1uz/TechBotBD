@@ -1,0 +1,414 @@
+name,category,sub_category,brand,price_bdt,processor,generation,ram_gb,storage,gpu,gpu_memory,display_inch,battery_mah,camera_mp,url,shop,popularity
+Samsung Galaxy S25 FE,smartphone,flagship_phone,Samsung,60990,Exynos 2400,,8,128/256/512,,,6.7,4900,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy F36,smartphone,smartphone,Samsung,23990,Exynos 1380,,6,128/256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,3
+iPhone Air,smartphone,flagship_phone,Apple,114444,A19 Pro,,12,256/512/1TB,,,6.5,3149,48,https://dazzle.com.bd/categories/phones,Dazzle,0
+Google Pixel 10 Pro,smartphone,flagship_phone,Google,105990,Tensor G5,,16,128/256/512/1TB,,,6.3,4870,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+iPhone 17 Pro,smartphone,flagship_phone,Apple,155888,A19 Pro,,12,256/512/1TB,,,6.3,4000,48,https://dazzle.com.bd/categories/phones,Dazzle,0
+iPhone 17,smartphone,flagship_phone,Apple,101990,A19,,8,128/256/512,,,6.1,3500,48,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy M36,smartphone,smartphone,Samsung,23990,Exynos 1380,,6,128/256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+iPhone 17 Pro Max,smartphone,flagship_phone,Apple,165888,A19 Pro,,12,256/512/1TB,,,6.9,4823,48,https://dazzle.com.bd/categories/phones,Dazzle,0
+iQOO Z10 Lite,smartphone,smartphone,iQOO,14222,Dimensity 6300,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,3
+Motorola G96,smartphone,smartphone,Motorola,26990,Snapdragon 7s Gen 3,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+Realme 15,smartphone,smartphone,Realme,34990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Google Pixel 10,smartphone,smartphone,Google,75990,Tensor G5,,12,128/256,,,6.1,4700,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Spark 40C,smartphone,smartphone,Tecno,15490,Helio G81,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y19s GT,smartphone,smartphone,Vivo,17990,Dimensity 7025,,8,256,,,6.7,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y400 5G,smartphone,smartphone,Vivo,31990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y400,smartphone,smartphone,Vivo,30990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo T4R,smartphone,smartphone,Vivo,27990,Snapdragon 7 Gen 3,,8,256,,,6.7,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme 15 Pro,smartphone,smartphone,Realme,41490,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix GT 30,smartphone,smartphone,Infinix,32990,Dimensity 7300,,8,256,,,6.78,5000,108,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme Note 70T,smartphone,smartphone,Realme,17990,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme Narzo 80 Lite 5G,smartphone,smartphone,Realme,17990,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo K13 Turbo,smartphone,smartphone,Oppo,29990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo K13 Turbo Pro,smartphone,smartphone,Oppo,34990,Dimensity 8300,,12,512,,,6.7,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Find N3,smartphone,flagship_phone,Oppo,203590,Snapdragon 8 Gen 3,,16,512,,,7.82,4805,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo F27 Pro Plus,smartphone,smartphone,Oppo,33590,Dimensity 7050,,8,256,,,6.7,5000,64,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Spark Go,smartphone,smartphone,Tecno,18990,Helio G85,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy A07,smartphone,smartphone,Samsung,13990,Exynos 850,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Google Pixel 10 Pro Fold,smartphone,flagship_phone,Google,229990,Tensor G5,,16,512/1TB,,,7.9,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Google Pixel 10 Pro XL,smartphone,flagship_phone,Google,122990,Tensor G5,,16,256/512,,,6.8,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme P4,smartphone,smartphone,Realme,28990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme P4 Pro,smartphone,smartphone,Realme,42990,Dimensity 8300,,12,512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Hot 60i 5G,smartphone,smartphone,Infinix,19990,Dimensity 6300,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo A3x 5G,smartphone,smartphone,Oppo,17590,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Xiaomi Poco M7,smartphone,smartphone,Xiaomi,21990,Dimensity 7025,,8,256,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Xiaomi Poco M7 Plus,smartphone,smartphone,Xiaomi,23990,Dimensity 7300,,8,256,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo V60,smartphone,smartphone,Vivo,46999,Dimensity 8300,,12,256/512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo V50 Lite 5G,smartphone,smartphone,Vivo,29490,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo V50 Lite,smartphone,smartphone,Vivo,27490,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo X200 FE,smartphone,flagship_phone,Vivo,69899,Dimensity 9400,,12,256/512,,,6.7,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo X Fold5,smartphone,flagship_phone,Vivo,124990,Dimensity 9400,,16,512/1TB,,,8.03,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Reno14 F,smartphone,smartphone,Oppo,44990,Dimensity 7300,,12,256/512,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo K13x,smartphone,smartphone,Oppo,17990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Pova 7 Ultra,smartphone,smartphone,Tecno,32990,Dimensity 7300,,12,256,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Pova 7,smartphone,smartphone,Tecno,23990,Dimensity 7025,,8,256,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Spark Go 2,smartphone,smartphone,Tecno,14990,Helio G85,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo T4 Lite,smartphone,smartphone,Vivo,18990,Dimensity 6300,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Xiaomi Poco F7,smartphone,smartphone,Xiaomi,45977,Dimensity 8300,,12,512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y400 Pro,smartphone,smartphone,Vivo,37999,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Smart 10 HD,smartphone,smartphone,Infinix,11990,Unisoc,,4,64/128,,,6.6,5000,13,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Smart 10 Plus,smartphone,smartphone,Infinix,13490,Helio G85,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Smart 10,smartphone,smartphone,Infinix,12490,Helio G85,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme Narzo 80 Lite,smartphone,smartphone,Realme,14990,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo T4 Ultra,smartphone,smartphone,Vivo,62990,Dimensity 9400,,12,512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy Z Flip 7 FE,smartphone,smartphone,Samsung,73990,Snapdragon 8 Gen 3,,12,256/512,,,6.7,4000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo A3x,smartphone,smartphone,Oppo,13190,Helio G85,,4,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo A3 5G,smartphone,smartphone,Oppo,19890,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo A3,smartphone,smartphone,Oppo,14990,Helio G85,,4,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Hot 60 Pro,smartphone,smartphone,Infinix,22990,Dimensity 7025,,8,256,,,6.78,5000,108,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Hot 60 Pro Plus,smartphone,smartphone,Infinix,24990,Dimensity 7300,,8,256,,,6.78,5000,108,https://dazzle.com.bd/categories/phones,Dazzle,0
+Infinix Hot 60,smartphone,smartphone,Infinix,17990,Dimensity 7025,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy Z Fold 7,smartphone,smartphone,Samsung,176990,Snapdragon 8 Gen 3,,16,512/1TB,,,7.6,4400,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy Z Flip 7,smartphone,smartphone,Samsung,99990,Snapdragon 8 Gen 3,,12,256/512,,,6.7,4000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y19s Pro,smartphone,smartphone,Vivo,16999,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Spark 40 Pro Plus,smartphone,smartphone,Tecno,28990,Dimensity 7025,,8,256,,,6.78,5000,108,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Spark 40 Pro,smartphone,smartphone,Tecno,18990,Helio G100,,8,256,,,6.78,5000,108,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Pova 7 Pro,smartphone,smartphone,Tecno,29990,Dimensity 7300,,8,256,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Pova 7 5G,smartphone,smartphone,Tecno,24990,Dimensity 7025,,8,256,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Tecno Spark 40,smartphone,smartphone,Tecno,17990,Helio G85,,6,128,,,6.78,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Xiaomi Poco M5,smartphone,smartphone,Xiaomi,12992,Helio G85,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy A17 5G,smartphone,smartphone,Samsung,23490,Exynos 1380,,6,128/256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+iQOO Z10 Turbo Plus,smartphone,smartphone,iQOO,44990,Dimensity 8300,,12,512,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+iQOO Z10R,smartphone,smartphone,iQOO,26490,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Find X9 Pro,smartphone,flagship_phone,Oppo,99989,Dimensity 9400,,16,512/1TB,,,6.78,5800,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G85 5G,smartphone,smartphone,Motorola,23990,Snapdragon 6s Gen 3,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,3
+Motorola Moto G45 5G,smartphone,smartphone,Motorola,15990,Dimensity 6300,,6,128,,,6.5,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,2
+Samsung Galaxy A17,smartphone,smartphone,Samsung,22490,Exynos 1380,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+Samsung Galaxy A57 5G,smartphone,smartphone,Samsung,59790,Exynos 1580,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+Samsung M07,smartphone,smartphone,Samsung,13690,Exynos 850,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,4
+iPhone 17e,smartphone,flagship_phone,Apple,77990,A19,,8,128/256,,,6.1,3500,0,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo X300 Pro,smartphone,flagship_phone,Vivo,95489,Dimensity 9400,,16,512/1TB,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo X300,smartphone,flagship_phone,Vivo,78989,Dimensity 9400,,12,256/512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Find X9,smartphone,flagship_phone,Oppo,79989,Dimensity 9400,,12,256/512,,,6.78,5700,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo iQOO 15,smartphone,smartphone,iQOO,76989,Snapdragon 8 Elite,,16,512,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo iQOO Neo11,smartphone,smartphone,iQOO,55989,Dimensity 8300,,12,256/512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy S26 Ultra 5G,smartphone,flagship_phone,Samsung,130990,Snapdragon 8 Gen 5,,16,512/1TB,,,6.8,5000,200,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo T4 Pro,smartphone,smartphone,Vivo,43990,Dimensity 8300,,12,512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+ZTE nubia RedMagic 10 Air,smartphone,gaming_phone,ZTE,61490,Snapdragon 8 Gen 3,,12,256,,,6.8,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Xiaomi Poco C85,smartphone,smartphone,Xiaomi,16990,Helio G85,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y500,smartphone,smartphone,Vivo,28990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+ZTE nubia RedMagic 10 Pro,smartphone,gaming_phone,ZTE,120990,Snapdragon 8 Elite,,16,512,,,6.85,6500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+ZTE nubia RedMagic 10S Pro,smartphone,gaming_phone,ZTE,115990,Snapdragon 8 Elite,,16,512,,,6.85,6500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme 15T,smartphone,smartphone,Realme,35990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo A6 Max,smartphone,smartphone,Oppo,34990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G06,smartphone,smartphone,Motorola,23990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G06 Power,smartphone,smartphone,Motorola,15190,Dimensity 6300,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Edge 60 Neo,smartphone,smartphone,Motorola,63990,Dimensity 8300,,12,256/512,,,6.7,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G64 5G,smartphone,smartphone,Motorola,18490,Dimensity 7025,,8,128/256,,,6.5,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Xiaomi Poco C55,smartphone,smartphone,Xiaomi,10490,Helio G85,,4,64/128,,,6.5,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G Stylus 5G (2026),smartphone,smartphone,Motorola,74990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme C85 Official,smartphone,smartphone,Realme,20999,Helio G85,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo iQOO Z11x,smartphone,smartphone,iQOO,26990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Edge 70 Fusion,smartphone,smartphone,Motorola,36690,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo Y05,smartphone,smartphone,Vivo,13990,Helio G85,,4,128,,,6.5,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung A07 official,smartphone,smartphone,Samsung,14990,Exynos 850,,4,128,,,6.6,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy F70e,smartphone,smartphone,Samsung,24990,Exynos 1380,,6,128/256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+ZTE nubia Z80 Ultra,smartphone,gaming_phone,ZTE,101990,Snapdragon 8 Gen 3,,16,512,,,6.8,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme 15 Lite,smartphone,smartphone,Realme,24990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme P4 Power,smartphone,smartphone,Realme,35990,Dimensity 7300,,8,256,,,6.7,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme 16,smartphone,smartphone,Realme,49990,Dimensity 8300,,12,512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Edge 70,smartphone,smartphone,Motorola,42190,Dimensity 7300,,12,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G17,smartphone,smartphone,Motorola,24990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme GT8 Pro,smartphone,smartphone,Realme,69990,Dimensity 9400,,16,512/1TB,,,6.78,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme GT8,smartphone,smartphone,Realme,57990,Dimensity 8300,,12,256/512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme C85,smartphone,smartphone,Realme,33990,Dimensity 7025,,8,256,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme C85 Pro,smartphone,smartphone,Realme,19990,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo Y19s 5G,smartphone,smartphone,Vivo,13990,Dimensity 6300,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G57 Power,smartphone,smartphone,Motorola,21988,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G17 Power,smartphone,smartphone,Motorola,29990,Dimensity 7025,,8,256,,,6.7,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G67,smartphone,smartphone,Motorola,34990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G67 Power,smartphone,smartphone,Motorola,23499,Dimensity 7025,,8,256,,,6.7,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G57,smartphone,smartphone,Motorola,22550,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G77,smartphone,smartphone,Motorola,44990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme Note 70 Official,smartphone,smartphone,Realme,13999,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme C85 Pro Official,smartphone,smartphone,Realme,22999,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo X200T,smartphone,flagship_phone,Vivo,79990,Dimensity 9400,,12,256/512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Reno15,smartphone,smartphone,Oppo,52990,Dimensity 8300,,12,256/512,,,6.78,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo Y500i,smartphone,smartphone,Vivo,27990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Reno15 F,smartphone,smartphone,Oppo,50990,Dimensity 8300,,12,256,,,6.78,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+vivo iQOO Z11 Turbo,smartphone,smartphone,iQOO,52490,Dimensity 8300,,12,256/512,,,6.78,5500,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Reno15 Pro Mini,smartphone,smartphone,Oppo,65990,Dimensity 8300,,12,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy Z TriFold,smartphone,smartphone,Samsung,494990,Snapdragon 8 Gen 5,,16,1TB,,,10.2,6000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo Reno15 FS,smartphone,smartphone,Oppo,65990,Dimensity 8300,,12,256,,,6.78,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy S26 5G,smartphone,flagship_phone,Samsung,102990,Snapdragon 8 Gen 5,,12,256/512,,,6.7,4600,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G100 Pro,smartphone,smartphone,Motorola,25990,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Motorola Moto G100S,smartphone,smartphone,Motorola,21988,Dimensity 7025,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme Narzo 90X,smartphone,smartphone,Realme,18990,Dimensity 7025,,8,256,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Samsung Galaxy F17,smartphone,smartphone,Samsung,22499,Exynos 1380,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo F31 Pro,smartphone,smartphone,Oppo,34990,Dimensity 7300,,8,256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo F31 Pro Plus,smartphone,smartphone,Oppo,42490,Dimensity 8300,,12,512,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Vivo Y21d,smartphone,smartphone,Vivo,18490,Helio G85,,6,128,,,6.5,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Realme P3 Lite,smartphone,smartphone,Realme,19990,Dimensity 6300,,6,128,,,6.67,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Oppo A6i,smartphone,smartphone,Oppo,17990,Dimensity 7025,,6,128,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Google Pixel 6 Pro,smartphone,smartphone,Google,36990,Tensor G1,,12,128/256,,,6.7,5000,50,https://dazzle.com.bd/categories/phones,Dazzle,0
+Acer ALG Gaming-AL15G-53,laptop,laptop,Acer,110000,Core i5,13th (Intel),16,1TB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 15 AS15-42,laptop,laptop,Acer,56500,Ryzen 3,Ryzen,8,512GB SSD,AMD Radeon Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 15 AS15-42,laptop,laptop,Acer,66000,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A324-31,laptop,laptop,Acer,46000,Core N100,12th Standard (Intel),8,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-45,laptop,laptop,Acer,37900,Intel Celeron,Celeron Series,8,512GB,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-45,laptop,laptop,Acer,40800,Intel Celeron,Celeron Series,12,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-53,laptop,laptop,Acer,58000,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-53,laptop,laptop,Acer,69900,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-53,laptop,laptop,Acer,70000,Core i5,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-53,laptop,laptop,Acer,55900,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire 3 A325-53,laptop,laptop,Acer,68000,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire Go 14 AG14-71M,laptop,laptop,Acer,104000,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire Lite AL15-31,laptop,laptop,Acer,42900,Core N100,12th Standard (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire Lite AL15-52H,laptop,laptop,Acer,77000,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire Lite AL15-53,laptop,laptop,Acer,73000,Core i5,13th Standard (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Aspire Lite AL15-53,laptop,laptop,Acer,69000,Core i5,13th Standard (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Predator Helios Neo 16S AI PHN16S-71,laptop,gaming_laptop,Acer,325000,Core Ultra 7,Ultra,16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Predator Helios Neo 16S AI PHN16S-71,laptop,gaming_laptop,Acer,360000,Core Ultra 9,Ultra,32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Predator Helios Neo 16S AI PHN16S-71,laptop,gaming_laptop,Acer,285000,Core Ultra 7,Ultra,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Predator Helios Neo 16S AI PHN16S-71,laptop,gaming_laptop,Acer,340000,Core Ultra 9,Ultra,16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Predator Helios Neo 16S AI PHN16S-71-73W,laptop,gaming_laptop,Acer,279900,Core Ultra 7,Ultra,16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Swift Go 14 SFG14-73 Series 1,laptop,laptop,Acer,146000,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Swift Go 14 SFG14-73 Series 1,laptop,laptop,Acer,148000,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer Swift Lite SFL14-54M Series 1,laptop,laptop,Acer,107000,Core Ultra 5,Ultra,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer TravelLite TL14-52M-i3,laptop,laptop,Acer,61000,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer TravelLite TL14-52M-i5,laptop,laptop,Acer,83000,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer TravelLite TL24-53M Series 1,laptop,laptop,Acer,118000,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer TravelMate P214-54,laptop,laptop,Acer,54900,Core i3,12th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Acer TravelMate P6 TMP-614-53,laptop,laptop,Acer,120000,Core i5,13th (Intel),16,1TB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,151900,Apple M5,M Series,16,512GB SSD,Apple 8-Core GPU,Shared,13.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,184000,Apple M5,M Series,16,512GB SSD,Apple 10-Core GPU,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,184000,Apple M5,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,209000,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,13.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,211000,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,225000,Apple M4,M Series,24,512GB SSD,Apple 10-core GPU,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,238000,Apple M5,M Series,24,1TB SSD,Apple 10-core GPU,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Air,laptop,lightweight_laptop,Apple,185000,Apple M3,M Series,16,1TB SSD,Apple 10-Core GPU,Shared,13.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Neo,laptop,laptop,Apple,99900,Apple A18,A Series,8,512GB SSD,Apple 5-core GPU,Shared,13.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,248000,Apple M5,M Series,16,1TB SSD,Apple 10-core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,292000,Apple M5,M Series,32,1TB SSD,Apple 10-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,306000,Apple M5,M Series,24,1TB SSD,Apple 16-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,360000,Apple M5,M Series,24,2TB SSD,Apple 16-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,387000,Apple M5,M Series,24,2TB SSD,Apple 20-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,410000,Apple M5,M Series,48,1TB SSD,Apple 20-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,427000,Apple M5,M Series,48,1TB SSD,Apple 20-Core GPU,Shared,16.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,460000,Apple M5,M Series,48,1TB SSD,Apple 20-Core GPU,Shared,16.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,495000,Apple M5,M Series,36,2TB SSD,Apple 32-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,221000,Apple M5,M Series,16,512GB SSD,Apple 10-core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,272000,Apple M5,M Series,24,1TB SSD,Apple 10-Core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Apple MacBook Pro,laptop,laptop,Apple,350000,Apple M2,M Series,32,1TB SSD,Apple 30-core GPU,Shared,14.2,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ExpertBook B1 B1403CVA Series 1,laptop,laptop,Asus,87000,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ExpertBook B3 B3405CCA Series 2,laptop,laptop,Asus,115000,Core Ultra 7,Ultra,8,512GB SSD,Intel Arc 140T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ExpertBook B5 B5302CEA,laptop,laptop,Asus,82500,Core i5,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,13.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ProArt StudioBook 16 H5600QM,laptop,laptop,Asus,232000,Ryzen 7,Ryzen,16,1TB SSD,Nvidia RTX 3060 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ProArt StudioBook 16 H5600QM,laptop,laptop,Asus,258000,Ryzen 9,Ryzen,32,1TB SSD,Nvidia RTX 3060 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ProArt StudioBook 16 H5600QR,laptop,laptop,Asus,298000,Ryzen 9,Ryzen,32,1TB SSD,Nvidia RTX 3070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ROG Strix G16 G614JU,laptop,laptop,Asus,170000,Core i5,13th (Intel),16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ROG Strix G16 G614PH,laptop,laptop,Asus,240000,Ryzen 9,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ROG Strix G16 G614PP,laptop,laptop,Asus,302000,Ryzen 9,Ryzen,16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ROG Strix G16 G614PP,laptop,laptop,Asus,332000,Ryzen 9,Ryzen,32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ROG Strix G16 G615LP,laptop,laptop,Asus,377000,Core Ultra 9,Ultra,32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ROG Strix SCAR 18 G835LX Series 2,laptop,laptop,Asus,649990,Core Ultra 9,Ultra,64,1TB SSD,Nvidia RTX 5090 Graphics,24GB,18.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ROG Zephyrus G14 GA403WP,laptop,laptop,Asus,428000,Ryzen AI 9,Ryzen,32,2TB SSD,Nvidia RTX 5070 Graphics,8GB,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ROG Zephyrus G16 GU605CR Series 2,laptop,laptop,Asus,490000,Core Ultra 9,Ultra,32,1TB SSD,Nvidia RTX 5070 Ti Graphics,12GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming A14 FA401UH,laptop,laptop,Asus,192000,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming A15 FA506NCG,laptop,laptop,Asus,119000,Ryzen 7,Ryzen,8,512GB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus TUF Gaming A15 FA506NCQ,laptop,laptop,Asus,124000,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming A16 FA607NUG,laptop,laptop,Asus,154000,Ryzen 7,Ryzen,16,1TB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming A16 FA607NUQ,laptop,laptop,Asus,159000,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming A16 FA608UH,laptop,laptop,Asus,205000,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming A16 FA608UM,laptop,laptop,Asus,192000,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming F16 FX607VB Series 2,laptop,laptop,Asus,115900,Core 5,Core Series 2,8,512GB SSD,Nvidia RTX 3050A Graphics,4GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming F16 FX608JH,laptop,laptop,Asus,170000,Core i5,13th (Intel),16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus TUF Gaming F16 FX608JHI,laptop,laptop,Asus,220000,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus TUF Gaming F16 FX608JMI,laptop,laptop,Asus,252000,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS TUF Gaming F16 FX608JMR,laptop,laptop,Asus,252000,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus TUF Gaming F16 FX608JPR,laptop,laptop,Asus,313000,Core i7,14th (Intel),32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus TUF Gaming F16 FX608JPR,laptop,laptop,Asus,282000,Core i7,14th (Intel),16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus V16 V3607VH Series 2,laptop,laptop,Asus,144000,Core 5,Core Series 2,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus V16 V3607VH Series 2,laptop,laptop,Asus,184000,Core 7,Core Series 2,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 14,laptop,laptop,Asus,112000,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 820M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 14 A1404VA Series 1,laptop,laptop,Asus,84900,Core 5,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 14 F1407CA Series 2,laptop,laptop,Asus,108000,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc 130V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 14 F1407CA Series 2,laptop,laptop,Asus,112000,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook 14 F1407CA Series 2,laptop,laptop,Asus,112000,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook 14 F1407QA,laptop,laptop,Asus,98000,Snapdragon X,Snapdragon X Series,16,1TB SSD,Qualcomm Adreno Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 14 M1407KA,laptop,laptop,Asus,112000,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 820M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook 14 X1404VA Series 1,laptop,laptop,Asus,84900,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 15 A1504VA Series 1,laptop,laptop,Asus,65800,Core 3,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 15 A1504VA Series 1,laptop,laptop,Asus,112000,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 15 A1504VA Series 1,laptop,laptop,Asus,84900,Core 5,Core Series 1,16,512GB,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 15 A1504VA Series 1,laptop,laptop,Asus,84900,Core 5,Core Series 1,16,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook 15 X1504VA,laptop,laptop,Asus,80000,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS Vivobook 15 X1504VA,laptop,laptop,Asus,99500,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook 15 X1504VA,laptop,laptop,Asus,96500,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 16 F1607CA Series 2,laptop,laptop,Asus,112000,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc 130T Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 16 F1607CA Series 2,laptop,laptop,Asus,108000,Core Ultra 5,Ultra,16,512GB SSD,Intel Iris Xe Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 16 M1607GA,laptop,laptop,Asus,129000,Ryzen AI 7,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook 16X K3605VC,laptop,laptop,Asus,103000,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 3050 Graphics,4GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook Go 14 L1404FA,laptop,laptop,Asus,79000,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook Go 14 L1404FA,laptop,laptop,Asus,79000,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus Vivobook Go 15 E1504TA,laptop,laptop,Asus,60800,Core N150,12th Standard (Intel),8,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook Go 15 L1504FA,laptop,laptop,Asus,59500,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook Go 15 L1504FA,laptop,laptop,Asus,79000,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook Pro 15 K3500PA,laptop,laptop,Asus,93000,Core i7,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook S 16 OLED M5606KA,laptop,laptop,Asus,160000,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook S14 M3407HA,laptop,laptop,Asus,109000,Ryzen 5,Ryzen,16,1TB SSD,AMD Radeon 740M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook S14 M3407HA,laptop,laptop,Asus,124000,Ryzen 7,Ryzen,16,1TB SSD,AMD Radeon 780M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook S14 S3407CA,laptop,laptop,Asus,144500,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc 140T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook S14 S3407VA Series 2,laptop,laptop,Asus,119000,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus VivoBook S14 S3407VA Series 2,laptop,laptop,Asus,124000,Core 5,Core Series 2,16,1TB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook S15 S513EA,laptop,laptop,Asus,76500,Core i5,11th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS VivoBook S15 S5507QA,laptop,laptop,Asus,170000,Snapdragon X Elite,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS X515EA,laptop,laptop,Asus,51900,Core i3,11th (Intel),4,1TB HDD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ZenBook 14 UM3406GA,laptop,lightweight_laptop,Asus,153000,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus ZenBook 14 UX3405CA Series 2,laptop,lightweight_laptop,Asus,180000,Core Ultra 7,Ultra,16,512GB SSD,Intel Arc 140T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ZenBook Pro Duo 14 OLED UX8402ZE,laptop,lightweight_laptop,Asus,250000,Core i7,12th (Intel),16,512GB SSD,Nvidia RTX 3050 Ti Graphics,4GB,14.5,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+ASUS ZenBook S 14 OLED UX5406SA Series 2,laptop,lightweight_laptop,Asus,216000,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Asus Zenbook S 16 UM5606GA,laptop,lightweight_laptop,Asus,256000,Ryzen AI 7,Ryzen,32,1TB SSD,AMD Radeon 840M Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+CHUWI GemiBook Xpro,laptop,laptop,Unknown,34900,Core N100,12th Standard (Intel),8,256GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell 15 DC15250,laptop,laptop,Dell,97500,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell 15 DC15250,laptop,laptop,Dell,74500,Core i5,13th (Intel),8,512GB,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell 15 DC15250 Series 1,laptop,laptop,Dell,59000,Core 3,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell Inspiron 14 5440 Series 1,laptop,laptop,Dell,117500,Core 7,Core Series 1,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell Inspiron 15 3530,laptop,laptop,Dell,96900,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell Latitude 14 3440,laptop,laptop,Dell,85500,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell Latitude 14 3440,laptop,laptop,Dell,86500,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell Latitude 14 5450 Series 1,laptop,laptop,Dell,129500,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Dell Pro 14 PC14250 Series 2,laptop,laptop,Dell,97500,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Gigabyte AERO X16 1TH,laptop,laptop,Gigabyte,185000,Ryzen AI 7,Ryzen,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Gigabyte AERO X16 1VH,laptop,laptop,Gigabyte,185000,Ryzen AI 7,Ryzen,16,1TB SSD,Nvidia RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Gigabyte Gaming A16 CMH,laptop,laptop,Gigabyte,144000,Core i7,13th (Intel),16,1TB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Gigabyte Gaming A16 CMH,laptop,laptop,Gigabyte,189000,Core i7,13th (Intel),16,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Gigabyte Gaming G6 MF,laptop,laptop,Gigabyte,132000,Core i7,13th (Intel),16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Gigabyte Gaming G6 MF,laptop,laptop,Gigabyte,134000,Core i7,13th (Intel),16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 14-ep0134TU,laptop,laptop,HP,98500,Core i7,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 14-ep0408TU,laptop,laptop,HP,84900,Core i5,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 14-ep0426TU,laptop,laptop,HP,80500,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fc0355AU,laptop,laptop,HP,50000,AMD Athlon,,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fc0621AU,laptop,laptop,HP,50000,AMD Athlon,Athlon Series,8,512GB SSD,AMD Radeon 610M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fd0807TU,laptop,laptop,HP,65990,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fd0808TU Core i3 1315U,laptop,laptop,HP,65990,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fd0811TU,laptop,laptop,HP,79500,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fd0812TU,laptop,laptop,HP,79500,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fd0841TU,laptop,laptop,HP,64990,Core i3,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP 15-fr0077TU,laptop,laptop,HP,88800,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Hp EliteBook 640 G11 Series 1,laptop,laptop,HP,106000,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Elitebook 840 G11 Series 1,laptop,laptop,HP,145000,Core Ultra 5,Ultra,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Elitebook 840 G11 Series 1,laptop,laptop,HP,175000,Core Ultra 7,Ultra,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP OMEN Gaming 16-am0333TX,laptop,laptop,HP,336000,Core i9,14th (Intel),32,1TB SSD,Nvidia RTX 5070 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP OmniBook 5 Flip x360 2-in-1 14-fp0134TU,laptop,laptop,HP,154000,Core 7,Core Series 1,24,1TB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP OmniBook 5 Flip x360 2-in-1 14-fp0136TU,laptop,laptop,HP,107900,Core i5,13th (Intel),16,1TB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP OmniBook Ultra Flip x360 14-fh0104TU AI,laptop,laptop,HP,229000,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc 140V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP ProBook 440 G11 Series 1,laptop,laptop,HP,96500,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP ProBook 440 G11 Series 1,laptop,laptop,HP,135000,Core Ultra 7,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP ProBook 460 G11 Series 1,laptop,laptop,HP,129500,Core Ultra 7,Ultra,8,512GB SSD,Intel Arc Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP ProBook 460 G11 Series 1,laptop,laptop,HP,116000,Core Ultra 5,Ultra,8,512GB SSD,Intel Arc Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Victus Gaming 15-fa1393TX,laptop,laptop,HP,110900,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Victus Gaming 15-fa2276TX,laptop,laptop,HP,128000,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Victus Gaming 15-fb1054AX,laptop,laptop,HP,95500,Ryzen 5,Ryzen,8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Victus Gaming 15-fb3166AX,laptop,laptop,HP,106500,Ryzen 5,Ryzen,8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Victus Gaming 15-fb3167AX,laptop,laptop,HP,106500,Ryzen 5,Ryzen,8,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+HP Victus Gaming 15-fb3180AX,laptop,laptop,HP,132500,Ryzen 7,Ryzen,8,1TB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 1 14IJL7,laptop,laptop,Lenovo,38800,Intel Celeron,Celeron Series,8,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 1 15AMN7,laptop,laptop,Lenovo,41500,AMD Athlon,Athlon Series,8,256GB SSD,AMD Radeon 610M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 5 2 in 1 14AKP10,laptop,laptop,Lenovo,115000,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 840M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 5 2 in 1 14AKP10,laptop,laptop,Lenovo,155000,Ryzen AI 7,Ryzen,24,512GB SSD,AMD Radeon 860M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 5 2 in 1 14IAL10 Series 2,laptop,laptop,Lenovo,137000,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 5 2 in 1 14IAL10 Series 2,laptop,laptop,Lenovo,157000,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc 140T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 5 2 in 1 14IAL10 Series 2,laptop,laptop,Lenovo,151500,Core Ultra 7,Ultra,16,512GB SSD,Intel Arc 140T Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad 5 2 in 1 14Q8X9,laptop,laptop,Lenovo,137500,Snapdragon X Plus,Snapdragon X Series,16,1TB SSD,Qualcomm Adreno Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 1 14IGL7,laptop,laptop,Lenovo,38300,Intel Celeron,Celeron Series,8,512GB SSD,Intel UHD Graphics 600,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 1 15IGL7,laptop,laptop,Lenovo,36300,Intel Celeron,Celeron Series,8,256GB SSD,Intel UHD Graphics 600,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14AHP10,laptop,laptop,Lenovo,93000,Ryzen 5,Ryzen,24,512GB SSD,AMD Radeon 760M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14ARP10,laptop,laptop,Lenovo,72000,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14ARP10,laptop,laptop,Lenovo,71000,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14IRH10,laptop,laptop,Lenovo,85500,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14IRH10,laptop,laptop,Lenovo,91000,Core i5,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14IRH10,laptop,laptop,Lenovo,95500,Core i7,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14IRH10,laptop,laptop,Lenovo,83500,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14IRH10R,laptop,laptop,Lenovo,84500,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 14IRH10R Series 2,laptop,laptop,Lenovo,92500,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15AHP10,laptop,laptop,Lenovo,93000,Ryzen 5,Ryzen,24,512GB SSD,AMD Radeon 760M Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15AMN8,laptop,laptop,Lenovo,54000,Ryzen 3,Ryzen,8,256GB SSD,AMD Radeon 610M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15ARP10,laptop,laptop,Lenovo,71000,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15ARP10,laptop,laptop,Lenovo,73000,Ryzen 5,Ryzen,8,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15ARP10,laptop,laptop,Lenovo,80000,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 660M Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15ARP10,laptop,laptop,Lenovo,89500,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 680M Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IAN8,laptop,laptop,Lenovo,55500,Core i3,13th Standard (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10,laptop,laptop,Lenovo,85000,Core i5,13th (Intel),24,512GB SSD,Intel UHD Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10,laptop,laptop,Lenovo,83500,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10,laptop,laptop,Lenovo,91000,Core i5,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10,laptop,laptop,Lenovo,95500,Core i7,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10R,laptop,laptop,Lenovo,96000,Core 5,Core Series 2,24,512GB SSD,Intel Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10R Series 2,laptop,laptop,Lenovo,84500,Core 5,Core Series 2,16,512GB SSD,Intel Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH10R Series 2,laptop,laptop,Lenovo,107000,Core 7,Core Series 2,24,512GB SSD,Intel Graphics,Shared,15.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15IRH8,laptop,laptop,Lenovo,74100,Core i5,13th (Intel),8,512GB SSD,Intel UHD Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 3 15ITL6,laptop,laptop,Lenovo,73500,Core i7,11th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 13ARP10,laptop,laptop,Lenovo,98000,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 680M Graphics,Shared,13.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 13ARP10,laptop,laptop,Lenovo,110000,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 680M Graphics,Shared,13.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14AKP10,laptop,laptop,Lenovo,98000,Ryzen AI 5,Ryzen,16,512GB SSD,AMD Radeon 820M Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14IRH10,laptop,laptop,Lenovo,111000,Core i5,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14IRH10,laptop,laptop,Lenovo,121000,Core i7,13th (Intel),16,1TB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14IRH10,laptop,laptop,Lenovo,101000,Core i5,13th (Intel),16,512GB SSD,Intel UHD Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14IRH10R,laptop,laptop,Lenovo,123000,Core 5,Core Series 2,32,1TB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14IRH10R Series 2,laptop,laptop,Lenovo,120000,Core 7,Core Series 2,16,1TB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 14Q8X9,laptop,laptop,Lenovo,117500,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 15ARP10,laptop,laptop,Lenovo,173000,Ryzen 7,Ryzen,32,1TB SSD,AMD Radeon 680M Graphics,Shared,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo IdeaPad Slim 5 16AHP10,laptop,laptop,Lenovo,162000,Ryzen 7,Ryzen,32,1TB SSD,AMD Radeon 780M Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion 5 15AKP10,laptop,gaming_laptop,Lenovo,240000,Ryzen AI 7,Ryzen,32,512GB SSD,Nvidia RTX 5060 Graphics,8GB,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion 5 15AKP10 AMD,laptop,gaming_laptop,Lenovo,270000,Ryzen AI 7,Ryzen,32,512GB SSD,NVIDIA Geforce RTX 5070 Graphics,8GB,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion 5 Gaming 15IRX10,laptop,laptop,Lenovo,197500,Core i7,14th (Intel),24,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion 5 Gaming 15IRX10,laptop,laptop,Lenovo,243500,Core i7,14th (Intel),24,512GB SSD,Nvidia RTX 5070 Graphics,8GB,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion 5 Gaming 15IRX10,laptop,laptop,Lenovo,272500,Core i9,14th (Intel),24,512GB SSD,Nvidia RTX 5070 Graphics,8GB,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion 5 Gaming 15IRX10,laptop,laptop,Lenovo,200500,Core i7,14th (Intel),24,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.1,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion Pro 5 16ADR10,laptop,gaming_laptop,Lenovo,235000,Ryzen 7,Ryzen,32,1TB SSD,NVIDIA GeForce RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Legion Pro 5 16ADR10,laptop,gaming_laptop,Lenovo,240000,Ryzen 7,Ryzen,24,1TB SSD,NVIDIA GeForce RTX 5060 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ 15AHP10,laptop,laptop,Lenovo,165000,Ryzen 7,Ryzen,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ 15AHP10,laptop,laptop,Lenovo,168000,Ryzen 5,Ryzen,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ 15AHP10,laptop,laptop,Lenovo,172000,Ryzen 7,Ryzen,16,1TB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ 15AHP9,laptop,laptop,Lenovo,138000,Ryzen 5,Ryzen,16,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ 15AHP9,laptop,laptop,Lenovo,142000,Ryzen 5,Ryzen,16,512GB SSD,Nvidia RTX 4050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ Gaming 15IAX9,laptop,laptop,Lenovo,107000,Core i5,12th (Intel),16,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ Gaming 15IAX9E,laptop,laptop,Lenovo,121500,Core i5,12th (Intel),16,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ Gaming 15IAX9E,laptop,laptop,Lenovo,96000,Core i5,12th (Intel),12,512GB SSD,Nvidia RTX 2050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ Gaming 15IRX9,laptop,laptop,Lenovo,135500,Core i5,13th (Intel),24,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo LOQ Gaming 15IRX9,laptop,laptop,Lenovo,145000,Core i7,13th (Intel),24,512GB SSD,Nvidia RTX 3050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo ThinkPad E14,laptop,laptop,Lenovo,98000,Core Ultra 5,Ultra,8,512GB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo ThinkPad E14 Gen 7 Series 2,laptop,laptop,Lenovo,110000,Core Ultra 5,Ultra,8,512GB SSD,Intel Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga 7 2 in 1 14ILL10 Series 2,laptop,laptop,Lenovo,178000,Core Ultra 5,Ultra,32,1TB SSD,Intel Arc 130V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga 7 2 in 1 14IML9,laptop,laptop,Lenovo,159000,Core Ultra 5,Ultra,16,1TB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga 7 2 in 1 14IML9 I,laptop,laptop,Lenovo,165000,Core Ultra 7,Ultra,16,1TB SSD,Intel Arc graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga 7 2 in 1 14IML9 Series 1,laptop,laptop,Lenovo,142500,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14ILL10 Series 2,laptop,laptop,Lenovo,164000,Core Ultra 7,Ultra,16,512GB SSD,Intel Arc 140V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14ILL10 Series 2,laptop,laptop,Lenovo,189000,Core Ultra 7,Ultra,32,1TB SSD,Intel Arc 140V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14ILL10 Series 2,laptop,laptop,Lenovo,173000,Core Ultra 5,Ultra,32,1TB SSD,Intel Arc 130V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14IMH9,laptop,laptop,Lenovo,142500,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14IMH9 Series 1,laptop,laptop,Lenovo,159000,Core Ultra 5,Ultra,16,512GB SSD,Intel Arc graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14IMH9 Series 1,laptop,laptop,Lenovo,197000,Core Ultra 9,Ultra,32,1TB SSD,Intel Arc Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 7 14Q8X9,laptop,laptop,Lenovo,208000,Snapdragon X Elite,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,14.5,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Lenovo Yoga Slim 9 14ILL10 Series 2,laptop,laptop,Lenovo,277000,Core Ultra 7,Ultra,32,1TB SSD,Intel Arc 140V Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Microsoft Surface Laptop 1st Edition Copilot+pc,laptop,laptop,Microsoft,184000,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Microsoft Surface Laptop 5,laptop,laptop,Microsoft,130000,Core i5,12th (Intel),8,256GB SSD,Intel Iris Xe Graphics,Shared,13.5,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Microsoft Surface Laptop 7,laptop,laptop,Microsoft,184000,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.8,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Microsoft Surface Laptop 7,laptop,laptop,Microsoft,179000,Core Ultra 5,Ultra,16,256GB SSD,Intel Arc 130V Graphics,Shared,13.8,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Microsoft Surface Laptop 7 Copilot+ PC,laptop,laptop,Microsoft,184000,Snapdragon X Plus,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.8,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Microsoft Surface Laptop 7 Copilot+ PC,laptop,laptop,Microsoft,199000,Snapdragon X Elite,Snapdragon X Series,16,512GB SSD,Qualcomm Adreno Graphics,Shared,13.8,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Cyborg 15 A13UC,laptop,laptop,MSI,98900,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 3050 Graphics,4GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Cyborg 15 A13VE,laptop,laptop,MSI,115900,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 4050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Cyborg 15 B2RWEKG Series 2,laptop,laptop,MSI,159900,Core 5,Core Series 2,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Katana 15 HX B14WFK,laptop,gaming_laptop,MSI,188900,Core i7,14th (Intel),16,512GB SSD,Nvidia RTX 5060 Graphics,8GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Katana 15 HX B14WGK,laptop,gaming_laptop,MSI,221900,Core i7,14th (Intel),16,512GB SSD,Nvidia RTX 5070 Graphics,8GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Modern 14 F13MG,laptop,laptop,MSI,68500,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Modern 15 F13MG,laptop,laptop,MSI,69000,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Modern 15 F1MG Series 1,laptop,laptop,MSI,79400,Core 5,Core Series 1,8,512GB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Modern 15 F1MG Series 1,laptop,laptop,MSI,102900,Core 7,Core Series 1,8,1TB SSD,Intel Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Modern A15 AI F2HMG,laptop,laptop,MSI,79000,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon 740M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Modern A15 AI F2HMG,laptop,laptop,MSI,89000,Ryzen 7,Ryzen,16,512GB SSD,AMD Radeon 780M Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Prestige 13 AI+ Ukiyoe Edition A2VMG,laptop,laptop,MSI,325000,Core Ultra 9,Ultra,32,2TB SSD,Intel Arc 140V Graphics,Shared,13.3,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Thin 15 B13VE,laptop,laptop,MSI,105900,Core i5,13th (Intel),8,512GB SSD,Nvidia RTX 4050 Graphics,6GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI Vector 16 HX AI A2XWIG Series 2,laptop,laptop,MSI,449900,Core Ultra 9,Ultra,16,1TB SSD,Nvidia RTX 5080 Graphics,16GB,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+MSI VenturePro 15 A2RWEG Series 2,laptop,laptop,MSI,148900,Core 5,Core Series 2,16,512GB SSD,Nvidia RTX 5050 Graphics,8GB,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Smart Flairedge,laptop,lightweight_laptop,Unknown,64500,Core i5,13th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Smart Flairedge,laptop,lightweight_laptop,Unknown,59000,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Smart Flairedge,laptop,lightweight_laptop,Unknown,67500,Core i7,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Smart Flairedge,laptop,lightweight_laptop,Unknown,68500,Core i7,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+Smart Flairedge,laptop,lightweight_laptop,Unknown,54500,Core i5,12th (Intel),8,512GB SSD,Intel Iris Xe Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+TECNO Megabook K15S,laptop,laptop,Unknown,57500,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon Graphics,Shared,15.6,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+TECNO Megabook K16S,laptop,laptop,Unknown,61900,Ryzen 5,Ryzen,16,512GB SSD,AMD Radeon Graphics,Shared,16.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0
+TECNO Megabook T14 Air,laptop,lightweight_laptop,Unknown,71900,Core i5,13th (Intel),16,512GB SSD,Intel Iris Xe Graphics,Shared,14.0,0,0,https://www.ryans.com/category/all-laptop,Ryans,0

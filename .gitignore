@@ -1,0 +1,25 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Generated runtime artifacts
+techbot/data/faiss_index.bin
+techbot/data/df_cache.pkl
+techbot/data/cache_meta.json
+data/cleaning_report.md
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
