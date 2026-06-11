@@ -116,7 +116,7 @@ def get_response(prompt: str, system_prompt: str,
                 continue
 
     print(f"[LLM] Both attempts failed. Last error: {last_err}")
-    return ERROR_MESSAGE_BN
+    return print(f"There was a problem with the {backend} backend: {last_err}")
 
 
 def is_backend_available(backend: str) -> bool:
