@@ -16,10 +16,11 @@ from typing import Optional
 import requests
 from dotenv import load_dotenv
 
-load_dotenv()
+import streamlit as st
 
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_CSE_ID = os.getenv("GOOGLE_CSE_ID")
+GOOGLE_API_KEY = st.secrets.get("ABCD")
+GOOGLE_CSE_ID = st.secrets.get("12345ABCD")
+
 
 CSE_URL = "https://www.googleapis.com/customsearch/v1"
 DEFAULT_SHOP_DOMAINS = ["ryans.com", "startech.com.bd", "dazzle.com.bd",
